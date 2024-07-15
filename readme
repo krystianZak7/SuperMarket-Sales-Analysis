@@ -1,5 +1,7 @@
-Bar Chart for Sales by City:
 
+## Step 1: Sales Analysis by City and Product Line
+
+# Bar Chart for Sales by City:
 Axis: City
 Values: Total Sales
 Explanation: This bar chart shows the total sales amount for each city. It helps identify which cities generate the most revenue.
@@ -8,24 +10,30 @@ Pie Chart for Sales by Product Line:
 Legend: Product Line
 Values: Total Sales
 Explanation: This pie chart represents the distribution of total sales across different product lines. It highlights which product lines contribute most to the overall sales.
-Step 2: Sales Analysis Over Time
 
-Line Chart for Sales Over Time:
+## Step 2: Sales Analysis Over Time
+
+# Line Chart for Sales Over Time:
 Axis: Date
 Values: Total Sales
 Explanation: This line chart displays the trend of total sales over time. It is useful for identifying sales patterns and seasonal trends.
-Step 3: Sales Analysis by Customer Type and Gender
 
-Bar Chart for Sales by Customer Type:
 
+## Step 3: Sales Analysis by Customer Type and Gender
+
+
+# Bar Chart for Sales by Customer Type:
 Axis: Customer Type
 Values: Total Sales
 Explanation: This bar chart shows the total sales amount for each customer type (e.g., Member vs. Normal). It helps in understanding the purchasing behavior of different customer segments.
-Bar Chart for Sales by Gender:
 
+
+# Bar Chart for Sales by Gender:
 Axis: Gender
 Values: Total Sales
 Explanation: This bar chart represents the total sales amount by gender. It helps in analyzing the sales contribution from male and female customers.
+
+
 Summary
 This analysis provides a comprehensive overview of the supermarket sales data, focusing on different aspects:
 
